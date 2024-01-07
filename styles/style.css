@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Open+Sans:wght@400;600;700;800&display=swap");
+
+/* shared styles */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: merriweather;
+}
+.container {
+  width: 82%;
+  margin: 50px auto;
+}
+
+/* banner section */
+.banner-section {
+  width: 100%;
+  background-image: url("../B9A1-New-Year-New-Mission/resources/Banner\ Image.png");
+  color: #fff;
+  background-repeat: no-repeat;
+  margin: 50px auto;
+  height: 100vh;
+}
+.banner-section p {
+  color: #fff;
+  text-align: center;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.banner-section h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px;
+}
